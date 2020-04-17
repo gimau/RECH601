@@ -4,4 +4,4 @@ jupyter labextension install jupyter-matplotlib
 conda config --append channels conda-forge
 conda config --append channels cta-observatory
 
-conda install ctools
+#conda install ctools
