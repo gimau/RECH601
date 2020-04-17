@@ -1,0 +1,11 @@
+name: ctools
+
+channels:
+  - conda-forge
+  - cta-observatory
+dependencies:
+  - numpy
+  - matplotlib
+  - ipympl
+  - ctools
+  - gammalib

@@ -1,5 +1,0 @@
-numpy
-matplotlib
-ipympl
-ctools
-gammalib
