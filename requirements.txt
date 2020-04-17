@@ -1,10 +1,5 @@
 numpy
 matplotlib
 ipympl
-cfitsio
 ctools
 gammalib
-krb5
-libcurl
-libedit
-libssh2
