@@ -1,4 +1,3 @@
-name: ctools
 
 channels:
   - conda-forge
