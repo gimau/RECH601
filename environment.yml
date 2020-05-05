@@ -6,5 +6,5 @@ dependencies:
   - numpy
   - matplotlib
   - ipympl
-  - ctools
+  - ctools=1.6.3
   - gammalib
